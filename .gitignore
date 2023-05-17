@@ -1,0 +1,7 @@
+$ git status
+/.idea/*
+/.mvn/*
+/target/*
+/HELP.md
+/mvnw
+/mvnw.cmd
